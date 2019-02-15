@@ -1,11 +1,10 @@
 
-package com.slife.java.demo1;
+package com.slife.java.share;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import app.myoss.cloud.web.spring.boot.BootApplication;
 import lombok.extern.slf4j.Slf4j;
-
 
 /**
  * 项目启动类
